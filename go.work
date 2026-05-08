@@ -2,7 +2,6 @@ go 1.24
 
 use (
 	./Day-1/basic-types
-	./Day-1/constants
 	./Day-1/main-go
 	./Day-1/multiple-declaration2
 	./Day-1/multiple-results
