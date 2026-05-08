@@ -1,0 +1,19 @@
+go 1.24.1
+
+use (
+	./Day-1/basic-types
+	./Day-1/constants
+	./Day-1/main-go
+	./Day-1/multiple-declaration2
+	./Day-1/multiple-results
+	./Day-1/multiple-variable-declaration
+	./Day-1/named-results
+	./Day-1/numeric-constants
+	./Day-1/type-conversion
+	./Day-1/type-inference
+	./Day-1/variables-with-initializers
+	./Day-1/zero-values
+	./Day-2/for-loop
+	./Day-2/for-loops
+	./Day-2/if-condition
+)
