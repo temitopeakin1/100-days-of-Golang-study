@@ -1,3 +1,3 @@
 module zero-values.go
 
-go 1.24.1
+go 1.24
